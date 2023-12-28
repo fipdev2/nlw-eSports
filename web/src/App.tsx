@@ -1,5 +1,4 @@
-import * as React from 'react';
-
+import './styles/main.css';
 
 function App() {
  return(
